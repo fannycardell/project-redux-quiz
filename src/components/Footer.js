@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <FooterWrapper>
       <FooterParagraph> Made by Fanny Cardell, Jessika Lind, Linnéa Ajger,
-        Maria Westling and Thérèse Ånmark at Technigos bootcamp for Web developers 2022
+        Maria Westling and Thérèse Ånmark at Technigo bootcamp for Web Developers oct 2022
       </FooterParagraph>
     </FooterWrapper>
   )
